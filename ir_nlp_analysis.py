@@ -2,7 +2,7 @@
 '''
 NAME: ir_nlp_analysis.py
 
-SYNOPSIS: ./ir_nlp_anlaysis.pl <kwd_file_dir> [collection_uuid] [item_type] [details]
+SYNOPSIS: ./ir_nlp_anlaysis.py <kwd_file_dir> [collection_uuid] [item_type] [details]
 
 DESCRIPTION:
 creates a docs table; populated with abstracts made available between 2012 and 2021, inclusive
